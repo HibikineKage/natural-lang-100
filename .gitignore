@@ -99,3 +99,6 @@ ENV/
 
 # mypy
 .mypy_cache/
+
+/src/2/12/col1.txt
+/src/2/12/col2.txt
